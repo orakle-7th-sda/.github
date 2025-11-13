@@ -24,22 +24,25 @@ Our focus is on understanding how aggregators work, analyzing routing algorithms
       <br/>
       <b>박정호</b>
       <br/>
-      <a href="https://github.com/kyle-park-io">@GITHUB</a>
+      <a href="https://github.com/kyle-park-io">@GitHub</a>
+      <br/>
+      <a href="https://www.linkedin.com/in/kyle-park-io/">@LinkedIn</a>
     </td>
     <td align="center" style="background: transparent; width: 200px;">
       <img src="https://github.com/identicons/user2.png" width="120px" alt="Member 2"/>
       <br/>
       <b>김서영</b>
       <br/>
-      <a href="https://github.com/rrabit42">@GITHUB</a>
+      <a href="https://github.com/rrabit42">@GitHub</a>
     </td>
     <td align="center" style="background: transparent; width: 200px;">
       <img src="https://github.com/identicons/user3.png" width="120px" alt="Member 3"/>
       <br/>
       <b>이은규</b>
       <br/>
-      <a href="https://github.com/ddr4869">@GITHUB</a>
+      <a href="https://github.com/ddr4869">@GitHub</a>
     </td>
+
   </tr>
   <tr>
     <td align="center" style="background: transparent; width: 200px;">
@@ -47,14 +50,14 @@ Our focus is on understanding how aggregators work, analyzing routing algorithms
       <br/>
       <b>정영훈</b>
       <br/>
-      <a href="https://github.com/thisisyeongh">@GITHUB</a>
+      <a href="https://github.com/thisisyeongh">@GitHub</a>
     </td>
     <td align="center" style="background: transparent; width: 200px;">
       <img src="https://github.com/identicons/user5.png" width="120px" alt="Member 5"/>
       <br/>
       <b>황기운</b>
       <br/>
-      <a href="https://github.com/GiHoon1123">@GITHUB</a>
+      <a href="https://github.com/GiHoon1123">@GitHub</a>
     </td>
     <td align="center" style="background: transparent; width: 200px;"></td>
   </tr>
