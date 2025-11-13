@@ -60,4 +60,6 @@ Our focus is on understanding how aggregators work, analyzing routing algorithms
   </tr>
 </table>
 
+![gopher](./public/gopher/gopher-dance-long-3x.gif)
+
 </div>
