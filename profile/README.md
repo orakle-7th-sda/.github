@@ -35,22 +35,14 @@ Our focus is on understanding how aggregators work, analyzing routing algorithms
       <br/>
       <a href="https://github.com/rrabit42">@GitHub</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" style="background: transparent; width: 200px;">
       <img src="https://github.com/identicons/user3.png" width="120px" alt="Member 3"/>
       <br/>
       <b>이은규</b>
       <br/>
       <a href="https://github.com/ddr4869">@GitHub</a>
-    </td>
-
-  </tr>
-  <tr>
-    <td align="center" style="background: transparent; width: 200px;">
-      <img src="https://github.com/identicons/user4.png" width="120px" alt="Member 4"/>
-      <br/>
-      <b>정영훈</b>
-      <br/>
-      <a href="https://github.com/thisisyeongh">@GitHub</a>
     </td>
     <td align="center" style="background: transparent; width: 200px;">
       <img src="https://github.com/identicons/user5.png" width="120px" alt="Member 5"/>
