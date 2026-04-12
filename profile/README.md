@@ -28,16 +28,7 @@ Our focus is on understanding how aggregators work, analyzing routing algorithms
       <br/>
       <a href="https://www.linkedin.com/in/kyle-park-io/">@LinkedIn</a>
     </td>
-    <td align="center" style="background: transparent; width: 200px;">
-      <img src="https://github.com/identicons/user2.png" width="120px" alt="Member 2"/>
-      <br/>
-      <b>김서영</b>
-      <br/>
-      <a href="https://github.com/rrabit42">@GitHub</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="background: transparent; width: 200px;">
+        <td align="center" style="background: transparent; width: 200px;">
       <img src="https://github.com/identicons/user3.png" width="120px" alt="Member 3"/>
       <br/>
       <b>이은규</b>
@@ -51,7 +42,6 @@ Our focus is on understanding how aggregators work, analyzing routing algorithms
       <br/>
       <a href="https://github.com/GiHoon1123">@GitHub</a>
     </td>
-    <td align="center" style="background: transparent; width: 200px;"></td>
   </tr>
 </table>
 
